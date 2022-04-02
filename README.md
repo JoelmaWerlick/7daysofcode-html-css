@@ -11,5 +11,6 @@ Desenvolvimento layout do cabeçalho, chamado normalmente de Navbar, com logo, p
 2⁰ dia 
 Continuação da landing page desenvolvendo a primeira sessão da página.
 
-![2042a893-04e1-4aaf-9815-58a822d0447c](https://user-images.githubusercontent.com/100633937/161361608-a3a171df-c0c1-4630-bf7f-013ee28d70ca.jpeg)
+![ad00147f-e513-4adf-9722-212aa641fd93](https://user-images.githubusercontent.com/100633937/161361642-1eb547b6-1dff-4077-af1d-ab1345151bc2.jpeg)
+
 
