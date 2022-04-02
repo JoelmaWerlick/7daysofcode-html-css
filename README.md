@@ -13,4 +13,7 @@ Continuação da landing page desenvolvendo a primeira sessão da página.
 
 ![ad00147f-e513-4adf-9722-212aa641fd93](https://user-images.githubusercontent.com/100633937/161361642-1eb547b6-1dff-4077-af1d-ab1345151bc2.jpeg)
 
+Link do Figma:
+https://bityli.com/Mkhek
+
 
