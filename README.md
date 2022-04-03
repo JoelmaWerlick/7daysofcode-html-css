@@ -3,7 +3,7 @@ Participando do #7DaysOfCode da Alura
 Desafio HTML e CSS com a Giovanna Moeller 
 Um projeto de uma empresa de TI que quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la. Protótipo feito através do layout do Figma
 
-Link do Figma:
+Link do Figma:  https://bityli.com/Mkhek
 
 
 
