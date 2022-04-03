@@ -24,6 +24,14 @@ Hoje foi dia de desenvolver a seção de métricas e resultados da página.
 
 ![77a68089-2fd9-4d55-b84a-60b003bf95ff](https://user-images.githubusercontent.com/100633937/161407454-4ac09a62-8a99-476a-aa41-c10b69f09e85.jpeg)
 
+4⁰ dia concluído!
+Desafio #7DaysOfCode - HTML e CSS  da Alura com a Gi Moeller
+Hoje foi dia de desenvolver a sessão de talentos.
+
+![43dc06e2-f318-4642-a38d-01d74a1700b6](https://user-images.githubusercontent.com/100633937/161442789-61ed6aeb-afff-4bd9-9284-17b91ddc8f8f.jpeg)
+
+
+
 
 
 
