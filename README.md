@@ -29,8 +29,10 @@ Hoje foi dia de desenvolver a sessão de talentos.
 
 ![43dc06e2-f318-4642-a38d-01d74a1700b6](https://user-images.githubusercontent.com/100633937/161442789-61ed6aeb-afff-4bd9-9284-17b91ddc8f8f.jpeg)
 
+5⁰ dia do desafio
+Hoje foi dia de desenvolver a sessão de vagas do site.
 
-
+![87fba5a4-ee57-4d36-873a-592282f0df67](https://user-images.githubusercontent.com/100633937/161612538-170b8ab3-6dac-4efc-ba37-eccdcb4e81c3.jpeg)
 
 
 
