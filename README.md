@@ -34,6 +34,10 @@ Hoje foi dia de desenvolver a sessão de vagas do site.
 
 ![87fba5a4-ee57-4d36-873a-592282f0df67](https://user-images.githubusercontent.com/100633937/161612538-170b8ab3-6dac-4efc-ba37-eccdcb4e81c3.jpeg)
 
+6⁰ dia concluído ✔ 
+Hoje foi dia de desenvolver a sessão de depoimentos.
+
+![0afcf874-8ea4-4719-aca2-5df036d35046](https://user-images.githubusercontent.com/100633937/161863509-aa59c454-c756-4af5-9016-b3e08dacea21.jpeg)
 
 
 
