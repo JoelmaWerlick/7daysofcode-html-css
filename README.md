@@ -39,6 +39,14 @@ Hoje foi dia de desenvolver a sessão de depoimentos.
 
 ![0afcf874-8ea4-4719-aca2-5df036d35046](https://user-images.githubusercontent.com/100633937/161863509-aa59c454-c756-4af5-9016-b3e08dacea21.jpeg)
 
+7⁰ dia 
+Desafio Concluindo!🚀 ✔ 
+O objetivo do projeto foi desenvolver o layout da página.
+Hoje foi dia de desenvolver o rodapé.
+"Só aprendemos a programar através da prática"
+
+Projeto final:
+![7daysOfCode-HTML-CSS](https://user-images.githubusercontent.com/100633937/162092681-db41bba2-3b18-4eb2-b6b8-3c57b505b43e.png)
 
 
 
